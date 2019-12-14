@@ -1,0 +1,13 @@
+.wp-caption {}
+.wp-caption-text {}
+.sticky {}
+.gallery-caption {}
+.bypostauthor {}
+.alignright {}
+.alignleft {}
+.aligncenter {}
+.alignleft, img.alignleft {float: left;margin-right: 20px;margin-bottom: 20px;}
+.alignright, img.alignright {display: block;float: right;margin-left: 20px;margin-bottom: 20px;}
+.aligncenter, img.aligncenter {margin-left: auto;margin-right: auto;display: block;clear: both;margin-bottom: 20px;}
+.screen-reader-text {}
+.screen-reader-text:focus {}
